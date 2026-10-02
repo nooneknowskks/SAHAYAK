@@ -1,0 +1,87 @@
+{
+  "nav":{
+      "title":"BharatAI",
+      "english":"English",
+      "hindi":"हिन्दी",
+      "marathi":"मराठी"
+   },
+   "hero":{
+      "badge":" Next-Gen Citizen Assistant",
+      "title1":"Welfare Schemes,",
+      "title2":"Redefined for You",
+      "subtitle":"The most advanced way to discover, verify, and apply for Indian government benefits in your own language.",
+      "searchPlaceholder":"Search schemes by name or category...",
+      "searchButton":"Find Schemes",
+      "popular":"Popular:",
+      "chips":{
+         "pmKisan":"PM-Kisan",
+         "scholarships":"Scholarships",
+         "rationCard":"Ration Card",
+         "housing":"Housing Scheme"
+      }
+   },
+   "schemes":{
+      "education":{
+         "title":"Education",
+         "desc":"Scholarships, fee waivers, and educational loans for meritorious students across India."
+      },
+      "agriculture":{
+         "title":"Agriculture",
+         "desc":"Direct income support, seed subsidies, and equipment grants for our hardworking farmers."
+      },
+      "healthcare":{
+         "title":"Healthcare",
+         "desc":"Universal health insurance and free medical treatment for economically weaker sections."
+      },
+      "viewDetails":"View Details"
+   },
+   "testimonials":{
+      "title":"Voice of the Citizens",
+      "subtitle":"Real stories from people whose lives were changed by BharatAI.",
+      "list":{
+         "arjun":{
+            "name":"Arjun Sharma",
+            "role":"Farmer, Haryana",
+            "text":"The explained PM-Kisan in my native language. I got my installment within 15 days of applying through the guide!"
+         },
+         "priya":{
+            "name":"Priya Patil",
+            "role":"Student, Pune",
+            "text":"I was confused about scholarship documents.  gave me a checklist instantly. Highly recommended for students!"
+         }
+      }
+   },
+   "footer":{
+      "description":"Empowering every Indian citizen through AI-driven access to welfare and government benefits.",
+      "quickLinks":"Quick Links",
+      "links":{
+         "findSchemes":"Find Schemes",
+         "checkEligibility":"Check Eligibility",
+         "howItWorks":"How it Works",
+         "help":"Help & FAQs"
+      },
+      "stayUpdated":"Stay Updated",
+      "subscribeDesc":"Get the latest scheme announcements in your inbox.",
+      "emailPlaceholder":"Your Email",
+      "copyright":" 2026  Assistant. All Rights Reserved. Made with  in India"
+   },
+   "chat":{
+      "assistant":"Ask Assistant",
+      "botName":"Buddy",
+      "status":"Online | Assistant",
+      "placeholder":"Type your query...",
+      "messages":{
+         "greeting":"Namaste! I am . How can I help you today?",
+         "loading":"I'm looking into that for you. Which state are you from?"
+      }
+   },
+   "ticker":{
+      "msg1":" PM-Kisan 16th Installment released! Check your status now.",
+      "msg2":" Last date for  extended to May 2026.",
+      "msg3":" New subsidies for Solar Pumps announced.",
+      "msg4":" PMAY Housing list updated for 2024."
+   },
+   "progress":{
+      "overall":"Overall Completion"
+   }
+}

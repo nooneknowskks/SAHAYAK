@@ -1,0 +1,87 @@
+{
+  "nav":{
+      "title":"BharatAI",
+      "english":"English",
+      "hindi":"हिन्दी",
+      "marathi":"मराठी"
+   },
+   "hero":{
+      "badge":"🇮🇳 Next-Gen Citizen Assistant",
+      "title1":"Kok Borok Jhorna,",
+      "title2":"Niwto Namo",
+      "subtitle":"Tripura sorkar ni thok thama kokborok khemta dei ar nidan, thamo nidan, ar nidan thama dei thama borok kothoma nidan.",
+      "searchPlaceholder":"Khemta thama nidan thama khem, khem borok kothoma...",
+      "searchButton":"Khem Borok Thama",
+      "popular":"Kor thama:",
+      "chips":{
+         "pmKisan":"PM-Kisan",
+         "scholarships":"Kor Thama",
+         "rationCard":"Chalani Card",
+         "housing":"Niwto Niran"
+      }
+   },
+   "schemes":{
+      "education":{
+         "title":"Kor",
+         "desc":"Kor thama thok thama korborok kothoma, fee borok nidan, ar educational loan kor thama nidan"
+      },
+      "agriculture":{
+         "title":"Jhuma",
+         "desc":"Jhumar thama dei, chalani borok, ar jhumar kothoma dei jhumar thama nidan"
+      },
+      "healthcare":{
+         "title":"Arogya",
+         "desc":"Arogya borok kothoma, ar thok thama thama borok ni arogya kothoma dei"
+      },
+      "viewDetails":"Thama Nidan"
+   },
+   "testimonials":{
+      "title":"Borok Kok",
+      "subtitle":"Niw Thama thama nidan, kok borok thama thama dei",
+      "list":{
+         "arjun":{
+            "name":"Arjun Debbarma",
+            "role":"Jhumar, Tripura",
+            "text":"Kok borok thama, thok thama dei PM-Kisan thama. Thama nidan thama dei 15 din thama PM-Kisan thama dei thama thama"
+         },
+         "priya":{
+            "name":"Priya Tripura",
+            "role":"Kor thama, Agartala",
+            "text":"Thok thama dei kor thama thok thama. Kok borok thama nidan thama, thama dei thama nidan"
+         }
+      }
+   },
+   "footer":{
+      "description":"Kok borok thama, thok thama dei thama thama dei thama",
+      "quickLinks":"Thama Nidan",
+      "links":{
+         "findSchemes":"Khem Borok Thama",
+         "checkEligibility":"Thama Nidan",
+         "howItWorks":"Thama Nidan",
+         "help":"Thama Nidan"
+      },
+      "stayUpdated":"Thama Nidan",
+      "subscribeDesc":"Thama nidan thama dei thama nidan",
+      "emailPlaceholder":"Thama Email",
+      "copyright":" 2026 BharatAI Thama. Thama Nidan"
+   },
+   "chat":{
+      "assistant":"Thama Assistant",
+      "botName":"BharatAI Kok",
+      "status":"Online | AI Assistant",
+      "placeholder":"Thama thok...",
+      "messages":{
+         "greeting":"Khaloi, thama dei BharatAI Kok. Thama nidan thama dei",
+         "loading":"Thama nidan thama dei, thama dei thama thama"
+      }
+   },
+   "ticker":{
+      "msg1":" PM-Kisan 16th Installment released! Thama nidan thama dei thama thama",
+      "msg2":" Scholarship thama dei thama nidan thama May 2026",
+      "msg3":" Solar Pump thama dei thama nidan thama",
+      "msg4":" PMAY Housing list thama dei thama nidan 2024"
+   },
+   "progress":{
+      "overall":"Thama Nidan"
+   }
+}
