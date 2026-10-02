@@ -1,0 +1,5 @@
+{
+  "name": "Sahayak AI",
+  "description": "Multilingual Government Scheme Assistant providing personalized guidance and eligibility tracking.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"]
+}

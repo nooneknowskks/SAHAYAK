@@ -1,0 +1,6 @@
+.env
+node_modules/
+**/node_modules/
+ai-service/venv/
+backend/uploads/
+frontend/dist/
